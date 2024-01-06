@@ -10,9 +10,23 @@
 // [“Russia”, “Denmark”, “Kazan”] → []
 
 Console.Clear();
-Console.WriteLine("Введите слова или набор букв и цифр через пробел: ");
-string array = Console.ReadLine();
-Console.WriteLine(array);
-void NewArray(string array){
-    
+string[] array = {"5gg", "12sdf", "55dbd"};
+Console.WriteLine($"Изначальный массив: [{string.Join(", ", array)}]");
+void NewArray(string[] array){
+    int j=0;
+    int count=0;
+   for (int i=0; i<array.Length; i++){
+      if (array[i].Length<=3){
+      count++;
+      }
 }
+    string[] array2 = new string[count];
+    for (int i=0; i<array.Length; i++){
+      if (array[i].Length<=3){
+        array2[j] = array[i];
+        j++;
+        }
+    }
+    Console.WriteLine($"Полученный массив: [{string.Join(", ", array2)}]");
+}
+NewArray(array);
