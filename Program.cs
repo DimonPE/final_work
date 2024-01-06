@@ -8,3 +8,11 @@
 // [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
+
+Console.Clear();
+Console.WriteLine("Введите слова или набор букв и цифр через пробел: ");
+string array = Console.ReadLine();
+Console.WriteLine(array);
+void NewArray(string array){
+    
+}
