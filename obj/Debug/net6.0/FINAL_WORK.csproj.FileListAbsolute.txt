@@ -1,0 +1,15 @@
+C:\Users\d3i9m\OneDrive\Рабочий стол\GeekBrains\FINAL_WORK\obj\Debug\net6.0\FINAL_WORK.csproj.AssemblyReference.cache
+C:\Users\d3i9m\OneDrive\Рабочий стол\GeekBrains\FINAL_WORK\obj\Debug\net6.0\FINAL_WORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d3i9m\OneDrive\Рабочий стол\GeekBrains\FINAL_WORK\obj\Debug\net6.0\FINAL_WORK.AssemblyInfoInputs.cache
+C:\Users\d3i9m\OneDrive\Рабочий стол\GeekBrains\FINAL_WORK\obj\Debug\net6.0\FINAL_WORK.AssemblyInfo.cs
+C:\Users\d3i9m\OneDrive\Рабочий стол\GeekBrains\FINAL_WORK\obj\Debug\net6.0\FINAL_WORK.csproj.CoreCompileInputs.cache
+C:\Users\d3i9m\OneDrive\Рабочий стол\GeekBrains\FINAL_WORK\bin\Debug\net6.0\FINAL_WORK.exe
+C:\Users\d3i9m\OneDrive\Рабочий стол\GeekBrains\FINAL_WORK\bin\Debug\net6.0\FINAL_WORK.deps.json
+C:\Users\d3i9m\OneDrive\Рабочий стол\GeekBrains\FINAL_WORK\bin\Debug\net6.0\FINAL_WORK.runtimeconfig.json
+C:\Users\d3i9m\OneDrive\Рабочий стол\GeekBrains\FINAL_WORK\bin\Debug\net6.0\FINAL_WORK.dll
+C:\Users\d3i9m\OneDrive\Рабочий стол\GeekBrains\FINAL_WORK\bin\Debug\net6.0\FINAL_WORK.pdb
+C:\Users\d3i9m\OneDrive\Рабочий стол\GeekBrains\FINAL_WORK\obj\Debug\net6.0\FINAL_WORK.dll
+C:\Users\d3i9m\OneDrive\Рабочий стол\GeekBrains\FINAL_WORK\obj\Debug\net6.0\refint\FINAL_WORK.dll
+C:\Users\d3i9m\OneDrive\Рабочий стол\GeekBrains\FINAL_WORK\obj\Debug\net6.0\FINAL_WORK.pdb
+C:\Users\d3i9m\OneDrive\Рабочий стол\GeekBrains\FINAL_WORK\obj\Debug\net6.0\FINAL_WORK.genruntimeconfig.cache
+C:\Users\d3i9m\OneDrive\Рабочий стол\GeekBrains\FINAL_WORK\obj\Debug\net6.0\ref\FINAL_WORK.dll
