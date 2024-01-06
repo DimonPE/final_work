@@ -10,7 +10,7 @@
 // [“Russia”, “Denmark”, “Kazan”] → []
 
 Console.Clear();
-string[] array = {"5gg", "12sdf", "55dbd"};
+string[] array = {"5gg", "12sdf", "55dbd","Hello", "2", "world", ":-)"};
 Console.WriteLine($"Изначальный массив: [{string.Join(", ", array)}]");
 void NewArray(string[] array){
     int j=0;
